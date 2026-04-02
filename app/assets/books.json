@@ -60,6 +60,18 @@
       "name": "Zero to One",
       "author": "Peter Thiel",
       "price": "$600"
+    },
+    {
+      "image":"app/assets/images/The_Subtle_Art.webp",
+      "name": "The Subtle Art of Not Giving a F*ck",
+      "author": "Mark Manson",
+      "price": "$530"
+    },
+    {
+      "image":"app/assets/images/Deep_Work.webp",
+      "name": "Deep Work",
+      "author": "Cal Newport",
+      "price": "$620"
     }
   ]
 }
